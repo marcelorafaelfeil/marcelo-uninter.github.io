@@ -4,7 +4,14 @@
 .text-left {
   text-align: left !important;
 }
+.text-right {
+  text-align: right !important;
+}
 
 .inline-block {
   display: inline-block !important;
+}
+
+.align-center {
+  margin: 0 auto !important;
 }

@@ -6,6 +6,10 @@
   /* Colors */
   --primary-color: #407176;
   --primary-dark-color: #233c3f;
+
+  --gray-color: #696969;
+  --gray-dark-color: #494949;
+
   --default-color: white;
   --light-color: white;
   --dark-color: #333333;

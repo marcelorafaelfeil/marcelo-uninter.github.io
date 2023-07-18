@@ -52,7 +52,10 @@
   flex-grow: 1;
 }
 
-.custom-modal .modal-body * {
+.custom-modal .modal-body div,
+.custom-modal .modal-body p,
+.custom-modal .modal-body li,
+.custom-modal .modal-body a {
   color: var(--dark-color);
 }
 

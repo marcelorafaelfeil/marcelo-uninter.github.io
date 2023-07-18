@@ -37,3 +37,13 @@
   background-color: var(--primary-dark-color);
   color: var(--default-color);
 }
+
+.btn-gray {
+  color: var(--default-color);
+  background-color: var(--gray-color);
+  border-color: var(--gray-color);
+}
+.btn-gray:hover {
+  background-color: var(--gray-dark-color);
+  color: var(--default-color);
+}

@@ -1,0 +1,10 @@
+.form-content {
+  width: 500px;
+}
+.custom-input {
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid var(--primary-color);
+  color: var(--primary-color);
+}
