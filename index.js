@@ -1,5 +1,11 @@
+/**
+ * @author Marcelo Rafael Feil
+ * @email marcelo.rafael.feil@gmail.com
+ */
+
 import { CustomModal } from './assets/javascript/modal.js';
 
+// Ao carregar a página, referencia os elementos necessários para direcionar para a outra página.
 window.onload = () => {
   const aboutMeButton = document.querySelector('#about-me-button');
   const backgroundButton = document.querySelector('#background-button');
