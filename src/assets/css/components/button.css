@@ -1,0 +1,39 @@
+.btn {
+  padding: 10px;
+  display: inline-block;
+  font-family: var(--font1);
+  font-weight: 200;
+  
+  color: var(--primary-color);
+  background-color: var(--default-color);
+  border: 1px solid var(--default-color);
+  border-radius: 8px;
+
+  text-decoration: none;
+  
+  transition: .18s;
+
+  cursor: pointer;
+}
+
+.btn-outline {
+  background-color: transparent;
+}
+.btn-outline.btn-default {
+  color: var(--default-color);
+}
+
+.btn:hover {
+  background-color: var(--default-color);
+  color: var(--dark-color);
+}
+
+.btn-primary {
+  color: var(--default-color);
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+.btn-primary:hover {
+  background-color: var(--primary-dark-color);
+  color: var(--default-color);
+}

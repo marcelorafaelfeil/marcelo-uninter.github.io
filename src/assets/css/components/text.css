@@ -1,0 +1,23 @@
+h1 {
+  font-size: 42px;
+  font-weight: 400;
+}
+
+small {
+  font-weight: 300;
+}
+
+blockquote {
+  font-weight: 300;
+  font-style: italic;
+}
+
+blockquote footer {
+  text-align: right;
+  font-weight: bold;
+}
+
+small {
+  display: block;
+  font-style: italic;
+}

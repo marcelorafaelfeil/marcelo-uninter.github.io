@@ -1,0 +1,15 @@
+:root {
+  /* Text variables */
+  --font1: 'Confortaa', Arial;
+  --text-primary-color: white;
+
+  /* Colors */
+  --primary-color: #407176;
+  --primary-dark-color: #233c3f;
+  --default-color: white;
+  --light-color: white;
+  --dark-color: #333333;
+
+  /* Page variable */
+  --bg-color: #111111;
+}

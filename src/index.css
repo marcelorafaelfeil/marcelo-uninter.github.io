@@ -1,0 +1,30 @@
+@import url(assets/css/global.css);
+
+:root {
+  --bg-header-image: url(assets/images/bg-05.jpg);
+}
+
+.content {
+  background-image: var(--bg-header-image);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: 30%;
+  min-height: 100%;
+}
+
+header h1 {
+  margin-top: 1rem;
+}
+
+.content .header {
+  padding-top: 3rem;
+}
+
+.profile .profile-picture .profile-picture--image {
+  width: 150px;
+}
+
+.content nav {
+  margin-top: 3rem;
+}

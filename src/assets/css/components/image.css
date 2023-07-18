@@ -1,0 +1,12 @@
+:root {
+  --img-border-color: #FFFFFF;
+}
+
+.img {
+  border: 3px solid var(--img-border-color);
+  box-shadow: 0px 0px 10px 2px #000000;
+}
+
+.img-rounded {
+  border-radius: 50%;
+}
